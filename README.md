@@ -1,3 +1,3 @@
-# git_testing
+This line is from the feature1 branch
 
-This is a README file.
+git_testing
